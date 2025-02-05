@@ -3,7 +3,7 @@ const verificarEProcessarTexto = require('../utils/messageFormatter');
 const axios = require('axios');
 
 const DIFY_API_URL = 'http://difyconsole.hocketzap.com/v1/chat-messages';
-const DIFY_API_KEY = 'app-sQ1OG9H9mHIok2M9dO0NPzDm';
+const DIFY_API_KEY = 'app-sQ1OG9H9mHIok2M9dO0NPzD';
 
 const MAX_MESSAGES_PER_MINUTE = 8;
 const SPAM_TIMEOUT_MINUTES = 5;
